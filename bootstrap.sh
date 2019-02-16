@@ -11,4 +11,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 brew cask install visual-studio-code
 brew cask install intellij-idea
 brew cask install datagrip
-brew cask install docker
+
+brew install docker docker-compose
+brew install kubernetes-cli
